@@ -1,5 +1,6 @@
 # Homework_2
  A project to calculate the amount of a book sale order based on quantity and price of a given book.  Sales tax and shipping charges will apply.
+ 
 Form: 
 Using text boxes for the title, quantity and price of a book. Use radio buttons to indicate whether sales tax should apply. 
 Results are output to labels or text boxes and formatted as currency.
@@ -7,6 +8,7 @@ Included buttons for Calculate, Clear, and Exit
 
 Code: 
 All data fields are validated.  Title is required, Quantity and Price are numeric.
+
 Project contain FOUR methods.
 A function to calculate and return the extended price based on quantity and price.
 extended price is quantity * price
